@@ -2,8 +2,7 @@
 
 👨🏻‍💻 I'm Software developer with 13+ years of experience working in agile and international
 environments. Experienced in developing and testing various web applications for
-different business systems, mainly focused on JavaScript technologies as a Front-
-End/Full Stack developer.
+different business systems, mainly focused on JavaScript technologies as a Full Stack developer.
 
 <!--
 **markoristic3ap/markoristic3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
