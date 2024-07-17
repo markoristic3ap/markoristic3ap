@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Software engineer with 13+ years of experience working in agile and international
 environments. Experienced in developing and testing various web applications for
-different business systems, mainly focused on MERN tech stack.
+different business systems, mainly focused on MERN / MEVN tech stack.
 
 <!--
 **markoristic3ap/markoristic3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
